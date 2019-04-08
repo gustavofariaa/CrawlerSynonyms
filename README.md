@@ -6,7 +6,7 @@ A crawler to find synonyms on [website](https://www.sinonimos.com.br/).
 Clone the repository into a folder of your preference:
 
 ```
-git clone git@github.com:gustavofariaa/Crawler-Synonyms.git
+git clone git@bitbucket.org:gustavofariaa/crawler-synonyms.git
 ```
 
 After completing the download, go to the created folder:
