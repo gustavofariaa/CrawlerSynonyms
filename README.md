@@ -12,7 +12,7 @@ git clone git@github.com:gustavofariaa/CrawlerSynonyms.git
 After completing the download, go to the created folder:
 
 ```
-cd Crawler-Synonyms
+cd CrawlerSynonyms
 ```
 
 ## Running
